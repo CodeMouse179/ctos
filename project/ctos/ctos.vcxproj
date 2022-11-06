@@ -146,6 +146,7 @@
     <ClCompile Include="..\..\src\main.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\src\header.h" />
     <ClInclude Include="..\..\src\libc\stdio2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

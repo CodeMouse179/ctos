@@ -7,4 +7,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(ctos
     src/main.c
     src/libc/stdio2.h
+    src/header.h
 )
