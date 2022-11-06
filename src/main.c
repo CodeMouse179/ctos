@@ -1,4 +1,4 @@
-﻿#include "libc\stdio2.h"
+﻿#include "libc/stdio2.h"
 #include "header.h"
 
 int main()
