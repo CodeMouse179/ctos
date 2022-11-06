@@ -1,5 +1,5 @@
-﻿#ifndef CTOS_LIBC_STDIO2
-#define CTOS_LIBC_STDIO2
+﻿#ifndef CTOS_LIBC_STDIO2_H
+#define CTOS_LIBC_STDIO2_H
 
 #include <stdio.h>
 

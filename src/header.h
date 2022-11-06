@@ -1,4 +1,4 @@
-﻿#ifndef CTOS_HEADER
-#define CTOS_HEADER
+﻿#ifndef CTOS_HEADER_H
+#define CTOS_HEADER_H
 
 #endif

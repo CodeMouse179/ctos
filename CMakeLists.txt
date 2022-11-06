@@ -8,4 +8,5 @@ add_executable(ctos
     src/main.c
     src/libc/stdio2.h
     src/header.h
+    src/minio.h
 )
